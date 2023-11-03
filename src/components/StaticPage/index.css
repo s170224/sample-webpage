@@ -1,0 +1,467 @@
+.container{
+   
+    background-color: hwb(32 85% 5%);
+   
+    font-family: "Roboto";
+   margin: 30px;
+     height: 850px;
+    /* width: 650px;  */
+}
+.para1{
+    color: gray;
+    font-size: 20px;
+    text-align: center;
+
+}
+.mainHead1{
+    color: rgb(167, 22, 22);
+    text-align: center;
+
+}
+.icon1{
+    color: rgb(227, 80, 39);
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 6px;
+    font-weight: bold;
+}
+.paraIcon{
+    color: gray;
+    font-size: 23px;
+}
+.iconCon{
+    display: flex;
+    flex-direction: row;
+}
+.darkCon{
+    background-color: black;
+    color: white;
+    font-family: "Roboto";
+    font-weight: 800;
+    text-align: center;
+    margin: 20px;
+    font-size: 12px;
+}
+.value-con{
+    color: grey;
+    font-family: "Roboto";
+    font-size: 17px;
+    text-align: center;
+    font-weight: bold;
+}
+.button1{
+    background-color:rgb(167, 22, 22) ;
+    height: 80px;
+    width: 300px;
+    border-radius: 40px;
+    border-style: none;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+
+}
+/* .peopleicon{
+    height: 40px;
+     width: 50px;
+     margin-top: 10px;
+} */
+
+.con12{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    /* margin-left: 300px; */
+}
+.imagecon1{
+    margin-top: 30px;
+    /* height: 100px; */
+}
+.secondImageContainer{
+    background-color:rgb(167, 22, 22);
+    text-align: center;
+}
+.image123{
+    width: 350px;
+    height: 120px;
+}
+.button122{
+    background-color:rgb(167, 22, 22) ;
+    height: 130px;
+    width: 300px;
+    border-radius: 40px;
+    border-style: none;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+
+}
+.par23{
+    font-size: 16px;
+}
+.pa1{
+    
+    text-decoration: line-through;
+}
+.hea1{
+    font-size: 23px;
+    padding-left: 10px;
+}
+.peoicon{
+    margin-top: 25px;
+    margin-left: 10px;
+}
+.hostContainer{
+    background-color: black;
+    color: white;
+    font-family: "Roboto";
+}
+
+@media  (min-width: 480px) {
+    .hostCon1{
+        display: flex;
+        flex-direction: row;
+        text-align: center;
+        padding: 40px;
+        padding-left: 120px;
+
+        
+    }
+    .secondImageContainer{
+        background-color:rgb(167, 22, 22);
+        text-align: center;
+    }
+    .image123{
+       width: 1000px;
+        height: 300px;
+    }
+    .lastContainer{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-left: 200px;
+        margin-right: 200px;
+    
+    }
+    .nextContainer{
+        text-align: center;
+        color: white;
+    }
+    .pa1{
+        font-size: 13px;
+    }
+    .hea1{
+        font-size: 22px;
+        padding-left: 10px;
+    }
+    .peoicon{
+        margin-top: 25px;
+        margin-left: 10px;
+    }
+    .hostContainer{
+        background-color: black;
+        color: white;
+        font-family: "Roboto";
+    }
+    .secondImageContainer{
+        background-color:rgb(167, 22, 22);
+        text-align: center;
+    }
+    .imagecon1{
+        margin-top: 90px;
+    }
+    .button122{
+        background-color:rgb(167, 22, 22) ;
+        height: 100px;
+        width: 370px;
+        border-radius: 40px;
+        border-style: none;
+        font-size: 25px;
+        color: white;
+        font-weight: bold;
+        padding: 10px;
+        text-align: center;
+    
+    }
+    .button1{
+        background-color:rgb(167, 22, 22) ;
+        height: 80px;
+        width: 360px;
+        border-radius: 40px;
+        border-style: none;
+        font-size: 25px;
+        color: white;
+        font-weight: bold;
+        padding: 10px;
+    
+    }
+    .host-con1{
+        text-align: start;
+        width: 300px;
+        margin: 30px;
+        margin-left: 60px;
+    
+    }
+    .container{
+        
+        background-color: hwb(32 85% 5%);
+        font-family: "Roboto";
+        margin: 20px;
+        height: 750px;
+        width: 650px;
+    }
+    .con12{
+        display: flex;
+        flex-direction: row;
+        text-align: center;
+        margin-left: 300px;
+    }
+    .evalutionContainer{
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .iconCon1{
+        display: flex;
+        flex-direction: row;
+        /* justify-content: center; */
+        /* text-align: start; */
+    }
+    .iconcon122{
+        text-align: center;
+        
+    }
+    .iconcon1222{
+        text-align: center;
+        margin-left: 400px;
+        
+    }
+    .logoImg{
+        padding-top: 30px;
+        margin-top: 20px;
+        margin-left: 200px;
+    }
+    .hostCon12{
+        display: flex;
+        flex-direction: row;
+        text-align: center;
+        justify-content: center;
+        padding: 40px;
+        margin-left: 100px;
+      
+    }
+    .host-con1{
+        text-align: start;
+        width: 300px;
+        margin: 40px;
+       
+    
+    }
+    .lastContainer{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+       margin: 30px;
+       font-size: 20px;
+    
+    }
+    .lastPara1{
+        padding-left: 100px;
+    }
+
+    .inputLabel{
+        font-size: 22px;
+        font-family: "roboto";
+        padding-left: 30px;
+        text-align: start;
+    }
+    .input34{
+        height: 30px;
+        width: 300px;
+        margin-left: 30px;
+    }
+    .inputCon{
+        display: flex;
+        flex-direction: column;
+        margin: 10px;
+    }
+    .input-con{
+        display: flex;
+        flex-direction: row;
+    }
+    .input343{
+        height: 30px;
+        width: 650px;
+        margin-left: 30px;
+    }
+    .submitButton1{
+        background-color: orange;
+        height: 40px;
+        width: 170px;
+        border-style: none;
+        border-radius: 8px;
+        color: white;
+        font-family: "Roboto";
+        font-weight: 700;
+    }
+    .buttionCon{
+        text-align: center;
+    }
+    .inputMainCon{
+        height: 400px;
+        margin: 10px;
+        width: 760px;
+      
+        text-align: center;
+        font-family: "Roboto";
+    }
+    .trigger-button{
+        margin-left: 660px;
+    }
+  }
+
+.hostCon1{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 40px;
+  
+}
+.host-con1{
+    text-align: start;
+    width: 300px;
+    margin: 10px;
+   
+
+}
+.imgHost1{
+    height: 360px;
+    width: 280px;  
+}
+.hostPara{
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 0;
+}
+.mainHostHead{
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 30px;
+}
+.nextContainer{
+    text-align: center;
+    color: white;
+    margin: 40px;
+}
+.totalContainer{
+    background-color: rgb(125, 55, 102);
+    color: white;
+    font-family: "Roboto";
+    padding-top: 30px;
+    /* padding: 20px; */
+
+}
+
+.logoImg{
+    padding-top: 30px;
+    margin-top: 20px;
+    margin-left: 30px;
+    /* margin-left: 200px; */
+}
+.evalutionContainer{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 20px;
+}
+.last-con-3{
+    background-color: black;
+}
+
+
+@media  (max-width: 480px){
+    .lastContainer{
+        display: flex;
+        flex-direction: column;
+       margin: 30px;
+       font-size: 20px;
+    
+    }
+    .iconCon1{
+        display: flex;
+        flex-direction: row;
+        /* justify-content: center; */
+        /* text-align: start; */
+    }
+    .last-con-3{
+        background-color: black;
+    }
+    .iconcon122{
+        text-align: center;
+        
+    }
+    .iconcon1222{
+       
+        text-align: start;
+        /* margin-left: 400px; */
+        
+    }
+    .lastPara1{
+        padding-left: 80px;
+    }
+    .mainsomeHead{
+        text-align: center;
+        font-family: "Roboto";
+        padding: 20px;
+    }
+.inputLabel{
+    font-size: 22px;
+    font-family: "roboto";
+    padding-left: 15px;
+    text-align: start;
+}
+.input34{
+    height: 30px;
+    width: 100px;
+    margin-left: 10px;
+}
+.inputCon{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+.input-con{
+    display: flex;
+    flex-direction: column;
+}
+.input343{
+    height: 30px;
+    width: 150px;
+    margin-left: 10px;
+}
+.submitButton1{
+    background-color: orange;
+    height: 40px;
+    width: 100px;
+    border-style: none;
+    border-radius: 8px;
+    color: white;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+.buttionCon{
+    text-align: center;
+}
+.inputMainCon{
+    margin: 20px;
+    text-align: center;
+    font-family: "Roboto";
+}
+}
+
